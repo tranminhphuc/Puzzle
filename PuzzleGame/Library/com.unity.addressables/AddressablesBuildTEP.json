@@ -1,0 +1,7 @@
+{
+"Date": "3/16/2022 8:39:33 AM",
+"UnityVersion": "2018.4.31f1",
+"traceEvents": [
+{"name": "Building Use Asset Database (fastest)", "ph": "X", "dur": 2140.4, "tid": 1, "ts": 11725, "pid": 1}
+]
+}
